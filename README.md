@@ -1,6 +1,7 @@
 == README
 
-## -J: Skip Javascript Files
+## [-J]: Skip Javascript Files.
+
 This option skips install of the default Javascript files.
 
 This README would normally document whatever steps are necessary to get the
